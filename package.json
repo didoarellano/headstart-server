@@ -1,0 +1,20 @@
+{
+  "name": "headstart-server",
+  "version": "0.0.1",
+  "description": "Development server for Semicolon Studios' Headstart front-end framework",
+  "author": {
+    "name": "Dido Arellano",
+    "email": "dido@semicolonstudios.com",
+    "url": "http://dido.ph/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.0",
+    "connect-livereload": "^0.5.0",
+    "gaze": "^0.6.4",
+    "lodash.merge": "^2.4.1",
+    "serve-index": "^1.5.0",
+    "serve-static": "^1.7.0",
+    "tiny-lr": "^0.1.4"
+  }
+}
