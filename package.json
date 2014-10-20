@@ -7,6 +7,7 @@
     "email": "dido@semicolonstudios.com",
     "url": "http://dido.ph/"
   },
+  "bin": { "server": "./bin/server.js" },
   "license": "MIT",
   "dependencies": {
     "connect": "^3.3.0",
