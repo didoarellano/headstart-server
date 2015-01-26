@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^1.9.1",
-    "lodash.merge": "^2.4.1"
+    "lodash.merge": "^2.4.1",
+    "title-case": "^1.1.0"
   }
 }
