@@ -10,12 +10,7 @@
   "bin": { "server": "./bin/server.js" },
   "license": "MIT",
   "dependencies": {
-    "connect": "^3.3.0",
-    "connect-livereload": "^0.5.0",
-    "gaze": "^0.6.4",
-    "lodash.merge": "^2.4.1",
-    "serve-index": "^1.5.0",
-    "serve-static": "^1.7.0",
-    "tiny-lr": "^0.1.4"
+    "browser-sync": "^1.9.1",
+    "lodash.merge": "^2.4.1"
   }
 }
