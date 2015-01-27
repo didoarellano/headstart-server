@@ -1,13 +1,15 @@
 {
   "name": "headstart-server",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Development server for Semicolon Studios' Headstart front-end framework",
   "author": {
     "name": "Dido Arellano",
     "email": "dido@semicolonstudios.com",
     "url": "http://dido.ph/"
   },
-  "bin": { "server": "./bin/server.js" },
+  "bin": {
+    "server": "./bin/server.js"
+  },
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^1.9.1",
